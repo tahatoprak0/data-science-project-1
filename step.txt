@@ -1,0 +1,10 @@
+1) Projeyi githubtan forkla
+2) Projeyi bilgisayara clone et. git clone https://.....
+3) Visual studiodan File->Open Folder seçip klonlanan projenin klasörünü seç
+4) README.md dosyasındaki komutları sırayla terminalde çalıştır.
+5) init_db.py içerisindeki CREATE ve INSERT scriptlerini kendi local veritabanında (PostgreSql'de) çalıştır. Test Et.
+6) questions.py içerisindeki password kısımlarına postgre kurarken koyduğun şifreyi yaz.
+7) test_question.py içerisindeki user_id kısmına platformdaki id numaranı gir.
+
+
+   
